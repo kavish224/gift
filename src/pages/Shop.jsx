@@ -10,15 +10,15 @@ import img7 from '../assets/11.jpeg';
 import img8 from '../assets/12.jpeg';
 import img9 from '../assets/13.jpeg';
 const images = [
-    { img: img1, title: 'product1', price: '2000' },
-    { img: img2, title: 'product2', price: '2500' },
-    { img: img3, title: 'product3', price: '3000' },
-    { img: img4, title: 'product4', price: '3000' },
-    { img: img5, title: 'product5', price: '3000' },
-    { img: img6, title: 'product6', price: '3000' },
-    { img: img7, title: 'product7', price: '3000' },
-    { img: img8, title: 'product8', price: '3000' },
-    { img: img9, title: 'product9', price: '3000' },
+    { img: img1, title: 'product1', price: '300' },
+    { img: img2, title: 'product2', price: '350' },
+    { img: img3, title: 'product3', price: '200' },
+    { img: img4, title: 'product4', price: '300' },
+    { img: img5, title: 'product5', price: '450' },
+    { img: img6, title: 'product6', price: '250' },
+    { img: img7, title: 'product7', price: '250' },
+    { img: img8, title: 'product8', price: '600' },
+    { img: img9, title: 'product9', price: '250' },
   ];
 export const Shop = () => {
     return (
